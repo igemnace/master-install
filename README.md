@@ -17,9 +17,9 @@ Just run `install.sh`. This will automatically do the following:
   - Currently supports *apt-get* and *pacman*
 - Create `DevTools` directory in your home directory if none exists, clone config repos into it, and run each of their install scripts (`configs.sh`)
   - Currently installs the following config repos:
-    -[zsh-config](https://github.com/igemnace/zsh-config)
-    -[tmux-config](https://github.com/igemnace/tmux-config)
-    -[vim-config](https://github.com/igemnace/vim-config)
+    - [zsh-config](https://github.com/igemnace/zsh-config)
+    - [tmux-config](https://github.com/igemnace/tmux-config)
+    - [vim-config](https://github.com/igemnace/vim-config)
 
 ## Licensing
 

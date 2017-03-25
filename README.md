@@ -2,6 +2,8 @@
 
 Easy way to set up my dev environment on a freshly installed system.
 
+REMINDER: I don't think I can keep apt-get support, because my Vim config now heavily relies on the Vim 8 package structure (not to mention a few integral plugins relying on async jobs). Remember to clean up my `packages.sh`.
+
 ## Pre-Installation
 
 Make sure that your machine satisfies the following:
